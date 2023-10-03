@@ -1,6 +1,3 @@
-
- 
-# LA CONSHAESUMALDITAMADRE SIIIIIIIII
 # ADB & Fastboot tools
 
 sudo apt install adb
