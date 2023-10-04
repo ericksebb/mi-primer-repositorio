@@ -1,6 +1,7 @@
 # ADB & Fastboot tools
 
-sudo apt install adb
-y
+## sudo apt install adb
 
-sudo apt install fastboot
+Tras instalar Android Debug Bridge, debes instalar Fastboot para completar la suite completa de Android SDK
+
+## sudo apt install fastboot
